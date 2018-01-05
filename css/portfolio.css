@@ -4,13 +4,13 @@ figure, ul, p{
 }
 
 body{
-	background-color: #ffffff;
+	background-color: #dedede;
 }
 .header{
 	width: 100%;
 }
 .header .nav{
-	background-color: #34495e;
+	background-color: #fefefe;
 	padding: 10px 0;
 }
 .header .nav .miUl{
