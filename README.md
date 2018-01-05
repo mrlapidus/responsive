@@ -1,1 +1,1 @@
-# Responsive Web Design IsCours 2018
+# Responsive Web Design IsCours 2017-2018

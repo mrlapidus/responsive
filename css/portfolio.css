@@ -1,0 +1,76 @@
+h1 ,h2, h3, h4, h5, h6,
+figure, ul, p{
+	margin: 0;
+}
+
+body{
+	background-color: #dedede;
+}
+.header{
+	width: 100%;
+}
+.header .nav{
+	background-color: #34495e;
+	padding: 10px 0;
+}
+.header .nav .miUl{
+	width: 900px;
+	margin: 0 auto;
+}
+.nav .miUl .list{
+	display: inline;
+	color: white;
+	font-size: 19px;
+	padding: 12px 12px;
+}
+.nav .miUl .select{
+	background-color: black;
+}
+.miprofile{
+	background-image: url('../img/diamond.png');
+	background-size: cover;
+}
+.miprofile .figure{
+	text-align: center;
+	width: 500px;
+	margin: 0 auto;
+	margin: 0 auto;
+	padding: 10px 0;
+}
+.miprofile .figure .miavatar{
+	width: 50%;
+	border-radius:50%;
+	border: 10px solid white;  
+}
+main{
+	width: 100%;
+	background-color: white;
+}
+main .sections{
+	width: 900px;
+	margin: 0 auto;
+	padding: 20px 0;
+	margin-bottom: 1px;
+}
+.sections .miheader h2{
+	background-color: #e67e22;
+	color: white;
+	padding: 5px 5px;
+}
+.sections .miheader .description{
+	padding: 10px 0;
+}
+.sections .miheader .misHabilidades{
+	padding: 10px 0;
+	overflow: hidden;
+}
+.sections .misHabilidades .ulIz, .ulDe{
+	width: 250px;
+}
+.sections .misHabilidades .ulIz{
+	float: left;
+}
+.sections .misHabilidades .ulDe{
+	float: right;
+}
+
